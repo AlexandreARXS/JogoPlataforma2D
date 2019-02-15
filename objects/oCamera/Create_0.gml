@@ -1,5 +1,5 @@
 //Criação da camera
-tempo = 60;
+tempo = 0;
 alarm[0] = 10;
 
 cam = view_camera[0];
