@@ -1,2 +1,2 @@
-tirodelay = 2;
+tirodelay = 0;
 recuo = 1;
