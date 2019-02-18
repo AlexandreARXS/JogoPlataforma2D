@@ -16,8 +16,8 @@ if(place_meeting( x, y + 1, oFloor)) && (key_jump){
  
 //Colisao horizontal
 
-if(place_meeting(x + hv, y, oWall)){
-	while(!place_meeting(x + sign(hv), y, oWall)){
+if(place_meeting(x + hv, y, oFloor)){
+	while(!place_meeting(x + sign(hv), y, oFloor)){
 		x = x + sign(hv);
 	}
 	hv=0;	

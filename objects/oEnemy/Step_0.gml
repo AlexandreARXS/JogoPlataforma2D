@@ -2,8 +2,8 @@ vsp = vsp + grv;
 
 //Colisao horizontal
 
-if(place_meeting(x+hsp, y, oWall)){
-	while(!place_meeting(x+sign(hsp),y,oWall)){
+if(place_meeting(x+hsp, y, oFloor)){
+	while(!place_meeting(x+sign(hsp),y,oFloor)){
 		x = x+sign(hsp);
 	}
 	hsp = -hsp;	
