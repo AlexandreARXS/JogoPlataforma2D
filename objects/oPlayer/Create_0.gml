@@ -1,6 +1,6 @@
 hv = 0;
 vv = 0;
-grv = 0.1;
+grv = 0.12;
 walkv = 4;
 
 //Vida do objeto
