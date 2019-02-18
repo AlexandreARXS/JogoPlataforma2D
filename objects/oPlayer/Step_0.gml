@@ -10,7 +10,7 @@ hv = move * walkv;
 
 vv = vv + grv;
 
-if(place_meeting( x, y + 1, oWall)) && (key_jump){
+if(place_meeting( x, y + 1, oFloor)) && (key_jump){
 	vv = -4;	
 }
  
@@ -27,8 +27,8 @@ x = x + hv;
 
 //Colisao Vertical
 
-if(place_meeting(x, y+vv, oWall)){
-	while(!place_meeting(x,y+sign(vv),oWall)){
+if(place_meeting(x, y+vv, oFloor)){
+	while(!place_meeting(x,y+sign(vv),oFloor)){
 		y = y+sign(vv);
 	}
 	vv=0;	
@@ -37,7 +37,7 @@ if(place_meeting(x, y+vv, oWall)){
 y = y + vv;
 
 //Animcao
-if(!place_meeting(x, y + 1, oWall)){
+if(!place_meeting(x, y + 1, oFloor)){
 	sprite_index = sPlayerJ;
 	image_speed = 0;
 	if(sign(vv)>0) image_index = 1; else image_index = 0;

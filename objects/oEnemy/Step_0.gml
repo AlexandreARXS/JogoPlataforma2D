@@ -13,8 +13,8 @@ x = x + hsp;
 
 //Colisao Vertical
 
-if(place_meeting(x, y+vsp, oWall)){
-	while(!place_meeting(x,y+sign(vsp),oWall)){
+if(place_meeting(x, y+vsp, oFloor)){
+	while(!place_meeting(x,y+sign(vsp),oFloor)){
 		y = y+sign(vsp);
 	}
 	vsp=0;	
@@ -23,7 +23,7 @@ if(place_meeting(x, y+vsp, oWall)){
 y = y + vsp;
 
 //Animcao
-if(!place_meeting(x,y+1,oWall)){
+if(!place_meeting(x,y+1,oFloor)){
 	sprite_index = sEnemyJ;
 	image_speed = 0;
 	if(sign(vsp)>0) image_index = 1; else image_index = 0;
