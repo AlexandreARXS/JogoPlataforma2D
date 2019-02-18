@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "9b0213b2-1f73-4f8b-a1dd-29c2a50c3fc1",
+            "Value": {
+                "id": "d4f6f5d7-e4e4-4b22-9348-161320de4eb5",
+                "resourcePath": "objects\\oListener\\oListener.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b197eb3-4394-4699-865b-6b011a7db9b7",
             "Value": {
                 "id": "692709af-0e05-49ad-8263-43b0af4f0d28",
@@ -291,6 +299,14 @@
             "Value": {
                 "id": "dc72f7fa-5cf3-4c57-9335-3b453a5f8f42",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be988f14-4534-4239-9735-fd3f74e4edd8",
+            "Value": {
+                "id": "73bed63b-bb55-46ca-9d7c-2bffcf055cac",
+                "resourcePath": "objects\\oTransicaoQuartes\\oTransicaoQuartes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -332,6 +348,14 @@
                 "id": "b2d6b7c1-72e5-45b8-bc93-76a6bd08a6fb",
                 "resourcePath": "sprites\\sFloor\\sFloor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d28583ad-74e7-455f-8e4f-0185cec20b5e",
+            "Value": {
+                "id": "7e43f212-bbdd-4074-b598-a1c5aae7ad01",
+                "resourcePath": "objects\\oBarraTransicao\\oBarraTransicao.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -51,3 +51,4 @@ if(!place_meeting(x, y + 1, oFloor)){
 }
 
 if(hv != 0) image_xscale = sign(hv);
+
