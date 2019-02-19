@@ -2,7 +2,7 @@
     "id": "5d0a9fce-bd01-4a65-9770-0c16bd44c059",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sWall",
+    "name": "sQueda",
     "For3D": false,
     "HTile": false,
     "VTile": false,

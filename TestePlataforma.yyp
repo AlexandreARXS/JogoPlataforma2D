@@ -194,7 +194,7 @@
             "Key": "5d0a9fce-bd01-4a65-9770-0c16bd44c059",
             "Value": {
                 "id": "8a6b4711-35fa-4ede-acf8-e00bedd28e55",
-                "resourcePath": "sprites\\sWall\\sWall.yy",
+                "resourcePath": "sprites\\sQueda\\sQueda.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -227,6 +227,14 @@
             "Value": {
                 "id": "1a59ce00-9a4c-423b-8333-18b1e161aed1",
                 "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "889ae9a9-78bc-4be7-ae60-a525c4004df6",
+            "Value": {
+                "id": "867983f6-e086-4833-b393-b5b2d4087bc3",
+                "resourcePath": "sprites\\sTronco\\sTronco.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -306,7 +314,7 @@
             "Key": "be988f14-4534-4239-9735-fd3f74e4edd8",
             "Value": {
                 "id": "73bed63b-bb55-46ca-9d7c-2bffcf055cac",
-                "resourcePath": "objects\\oTransicaoQuartes\\oTransicaoQuartes.yy",
+                "resourcePath": "objects\\oQueda\\oQueda.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -354,7 +362,7 @@
             "Key": "d28583ad-74e7-455f-8e4f-0185cec20b5e",
             "Value": {
                 "id": "7e43f212-bbdd-4074-b598-a1c5aae7ad01",
-                "resourcePath": "objects\\oBarraTransicao\\oBarraTransicao.yy",
+                "resourcePath": "objects\\oTronco\\oTronco.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -372,14 +380,6 @@
                 "id": "43b69a24-5393-4abf-a8a1-d423be06b8ea",
                 "resourcePath": "views\\db5a519e-8a1d-4523-b74e-fad0375ab7ee.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e80037ed-79e5-48db-a9f8-a78009f556ec",
-            "Value": {
-                "id": "1c3cd4a8-302b-49f3-b30c-c3251bec0fe3",
-                "resourcePath": "objects\\oWall\\oWall.yy",
-                "resourceType": "GMObject"
             }
         },
         {

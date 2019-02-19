@@ -1,8 +1,8 @@
 {
-    "id": "e80037ed-79e5-48db-a9f8-a78009f556ec",
+    "id": "d28583ad-74e7-455f-8e4f-0185cec20b5e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWall",
+    "name": "oTronco",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5d0a9fce-bd01-4a65-9770-0c16bd44c059",
+    "spriteId": "889ae9a9-78bc-4be7-ae60-a525c4004df6",
     "visible": true
 }

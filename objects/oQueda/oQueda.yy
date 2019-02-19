@@ -1,8 +1,8 @@
 {
-    "id": "d28583ad-74e7-455f-8e4f-0185cec20b5e",
+    "id": "be988f14-4534-4239-9735-fd3f74e4edd8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBarraTransicao",
+    "name": "oQueda",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "5d0a9fce-bd01-4a65-9770-0c16bd44c059",
     "visible": true
 }
