@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "dd928c17-3683-4e4a-b6bb-9362275a98a7",
+            "Value": {
+                "id": "181aec59-7355-4e0b-974f-486d760fb20f",
+                "resourcePath": "objects\\oTransiao\\oTransiao.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e5d5abd8-4271-4404-9f07-30cfac6ed5d5",
             "Value": {
                 "id": "8921c6fa-355d-4e02-aa77-7ec46ac04061",
